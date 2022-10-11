@@ -7,6 +7,7 @@ function Card (props) {
 <div className="container">
     <div className="card">
        <h1>Omina Mamatalieva</h1>
+       <h1>Hello</h1>
         <div>{props.title}</div>
         <div>{props.price}</div>
         <div>{props.color}</div>
